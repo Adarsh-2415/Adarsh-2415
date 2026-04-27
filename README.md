@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I am Adarsh Pathak
 💻 I’m currently working on web development projects and exploring AI-assisted development  <br><br>🤝 I’m looking to collaborate on innovative web and design-based projects  <br><br>🛠️ I’m looking for help with backend development and scaling projects  <br><br>🌱 I’m currently learning advanced web technologies and AI tools  <br><br>💬 Ask me about graphic designing, freelancing, and building websites  <br><br>⚡ Fun fact: I enjoy turning ideas into real projects using creativity and technology
 
 
